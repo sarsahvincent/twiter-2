@@ -6,9 +6,9 @@ import Widgets from './components/Widgets'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
+    <div className="m-auto mx-auto max-h-screen overflow-hidden lg:max-w-6xl">
       <Head>
-        <title>Twiter 2.0</title>
+        <title>twitter 2.0</title>
         <link rel="icon" href="https://links.papareact.com/drq" />
       </Head>
 

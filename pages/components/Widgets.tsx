@@ -10,7 +10,7 @@ function Widgets() {
         <input
           type="search"
           className="flex-1 bg-transparent outline-none"
-          placeholder="Search Twiter"
+          placeholder="Search twitter"
         />
       </div>
       <TwitterTimelineEmbed
